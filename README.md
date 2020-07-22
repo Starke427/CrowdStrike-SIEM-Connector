@@ -7,10 +7,8 @@ The easiest way to download this is to curl the output to a local file.
 
 ```
 curl https://raw.githubusercontent.com/Starke427/CrowdStrike-SIEM-Connector/master/crowdstrike_setup.sh > crowdstrike_setup.sh
-```
-```
+
 chmod 700 crowdstrike_setup.sh
-```
-```
+
 ./crowdstrike_setup.sh   
 ```
